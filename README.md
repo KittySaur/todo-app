@@ -2,6 +2,8 @@
 
 Classical version of to-do app
 
+You can check it out here https://todo-app-by-z.netlify.app/
+
 ### Functionality:
 
 - add to-do item
